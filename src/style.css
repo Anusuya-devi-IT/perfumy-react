@@ -14,12 +14,12 @@ ul{
     margin-left:70%;
     
 }
-li a{
+li{
     color:grey;
     margin-left: 15px;
 }
 
-a:hover{
+li:hover{
     color:white;
     cursor: pointer;
 }
